@@ -12,6 +12,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/mdivate/Project-No-5/pulls)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20App-ff4b4b?logo=streamlit&logoColor=white)](https://project-no-5-vweqdeo9nxhwkobvsk349l.streamlit.app)
 
+### 🌐 [Live App → https://project-no-5-vweqdeo9nxhwkobvsk349l.streamlit.app](https://project-no-5-vweqdeo9nxhwkobvsk349l.streamlit.app)
+
 **A fully agentic, multi-agent AI blogging assistant powered by IBM Granite LLM via IBM watsonx.ai.**  
 Collect real-time news · suggest trending topics · generate SEO blog drafts · analyze audience sentiment · predict engagement  
 — all from an interactive Streamlit dashboard, deployed on **IBM Cloud Code Engine**.
